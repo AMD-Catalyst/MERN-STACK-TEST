@@ -188,3 +188,4 @@
 20221217	00:01:27	6af88dcc-3cf3-4fd6-8671-f2c82fb23f13	POST	undefined	/auth
 20221217	00:01:38	844daee0-40c6-483e-803f-1fa37fc3c19b	DELETE	undefined	/employee
 20221217	00:01:44	d7cde297-4b86-493f-b3f4-2e6c8282fcf9	GET	undefined	/employee/639c95c2525f8c6480640f0c
+20221217	00:45:37	f8b29628-436e-42f7-8077-4dc4f5839789	POST	undefined	/auth

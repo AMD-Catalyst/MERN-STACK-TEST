@@ -36,10 +36,10 @@ function Header() {
             <ButtonGroup aria-label="Basic example">
               <Button as={Link} to="/auth" variant="warning">
                 Sign-In
-              </Button>{" "}
+              </Button>
               <Button as={Link} to="/register" variant="danger">
                 Register
-              </Button>{" "}
+              </Button>
             </ButtonGroup>
 
             {/* <Nav.Link as={NavLink} to="/auth">
